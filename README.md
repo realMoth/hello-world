@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi, humans!
+I am just student from Russia. I want to be good developer.
